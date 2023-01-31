@@ -1,0 +1,80 @@
+body{
+    background-color: aquamarine;
+    color: white;
+}
+
+main {
+    background: grey;
+    width: 20%;
+    height: 100%;
+    margin: 0 auto;
+    color: black;
+    font-weight: lighter;
+}
+
+
+.sect{
+    background-color: white;
+    border-radius: 2% 2% 2% 15%;
+    padding: 20px;
+}
+
+ /* .imp input{
+    background-color: transparent;
+    color: white;
+    margin-top: 20px;
+    display: block;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}  */
+
+
+
+.imp input{
+    display: block;
+    color: white;
+    width: 75%;
+    margin-bottom: 30px;
+    background-color: grey;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid cornsilk;
+    
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+
+.agr{
+    text-align: justify;
+    font-size: xx-small;
+    color: white;
+}
+
+.account{
+    font-size: larger;
+}
+
+.sign2{
+        background-color: white;
+        color: black;
+        border: none;
+        height: 36px;
+        width: 200px;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity 1s;
+        
+}
+
+button-hover{
+    background-color: black;
+}
+
+

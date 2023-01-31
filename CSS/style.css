@@ -1,0 +1,86 @@
+  body{
+    background: greenyellow;
+    width: 75%;   
+}
+
+main {
+    background-color: gray;
+    width: 30%;
+    height: 100%;
+    border: 5px;
+    margin-left: 50%;
+    margin-right: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+section{
+    text-transform: capitalize;
+    color: black;
+    background-color: white;
+    background-size: 70%;
+    padding: 20px 20px;
+    margin-bottom: 10px;
+    border-radius: 0ch 5ch 0 0px;
+    
+}
+
+.sign{
+    background-color: rgb(79, 70, 70);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 230px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 1s;
+    
+
+}
+
+aside{
+    background-color: rgb(245, 8, 8);
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-bottom: 5%;
+}
+
+button:hover{
+    color: purple;
+    color: white;
+}
+
+.dot{
+    font-weight: bolder;
+    font-size: 32px;
+    color: white;
+    margin-left: 10px;
+}
+.start{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    padding-top: 50px;
+    color: white;
+}
+
+
+.social{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 5px;
+    line-height: 0px;
+}
+
+
+.get{
+    margin-left: 10px;
+    color: black;
+
+}
